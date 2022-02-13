@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+
+.today {
+  border-radius: 12px; 
+  background-color: #07CAE4;
+  width: 118px; 
+  float: left; 
+  padding: 19px 0; 
+  border: 1px solid gray; 
+  margin: 12px 12px;
+}
+
+.otherDays {
+  width: 120px;
+  float: left;
+  padding: 20px 0; 
+  margin: 12px 12px;
+}
